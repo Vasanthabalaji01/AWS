@@ -1,4 +1,6 @@
 # AWS-Projects
+1. [LAMP_EC2_AWS](https://github.com/Vasanthabalaji01/AWS-Projects/tree/main/LAMP_EC2_AWS)
+2. [AWS Cloud Resume](https://github.com/Vasanthabalaji01/AWS-Projects/tree/main/AWS-Cloud-Resume)
 ## Core AWS Services
 ### EC2 (Elastic Compute Cloud)
 ### Lambda
