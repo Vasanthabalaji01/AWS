@@ -7,8 +7,11 @@
 2. [AWS Cloud Resume](https://github.com/Vasanthabalaji01/AWS-Projects/tree/main/AWS-Cloud-Resume)
 # Core AWS Services
 ![Core AWS Services](https://github.com/Vasanthabalaji01/AWS-Projects/blob/main/AWS%20Project%20-%20%20image/Core%20Services%20Explain%20%26%20Mini%20Projects.png)
-## EC2 (Elastic Compute Cloud)
+## EC2 (Elastic Compute Cloud) 
 ![EC2-Elastic Compute Cloud Architecture Diagram](https://github.com/Vasanthabalaji01/AWS-Projects/blob/main/AWS%20Project%20-%20%20image/EC2%20Mini%20Project.png)
+
+[Hands on](https://github.com/Vasanthabalaji01/AWS-Projects/blob/main/EC2%20-%20Elastic%20Compute%20Cloud/README.md)
+
 ## Lambda
 ## Elastic Load Balancer (ELB)
 ## Auto Scaling
