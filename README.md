@@ -8,33 +8,62 @@
 # Core AWS Services
 ![Core AWS Services](https://github.com/Vasanthabalaji01/AWS-Projects/blob/main/AWS%20Project%20-%20%20image/Core%20Services%20Explain%20%26%20Mini%20Projects.png)
 ## EC2 (Elastic Compute Cloud) 
-![EC2-Elastic Compute Cloud Architecture Diagram](https://github.com/Vasanthabalaji01/AWS-Projects/blob/main/AWS%20Project%20-%20%20image/EC2%20Mini%20Project.png)
+![Elastic Compute Cloud - EC2 Web Application-Architecture Diagram](https://github.com/Vasanthabalaji01/AWS-Projects/blob/main/AWS%20Project%20-%20%20image/EC2%20Mini%20Project.png)
 
 [Hands on](https://github.com/Vasanthabalaji01/AWS-Projects/blob/main/EC2%20-%20Elastic%20Compute%20Cloud/README.md)
 
 ## Lambda
+![Lambda Automatic Image Resizing Service-Architecture Diagram](https://github.com/Vasanthabalaji01/AWS-Projects/blob/main/AWS%20Project%20-%20%20image/Lambda%20Mini%20Project.png)
+
+[Hands on](url)
+
 ## Elastic Load Balancer (ELB)
+![]()
 ## Auto Scaling
+![]()
 ## Elastic Block Store (EBS)
+![]()
 ## S3
+![]()
 ## Glacier
+![]()
 ## Storage Gateway
+![]()
 ## EFS (Elastic File System)
+![]()
 ## RDS
+![]()
 ## Aurora
+![]()
 ## DynamoDB
+![]()
 ## Elasticache
+![]()
 ## VPC
+![]()
 ## NACL
+![]()
 ## Security Groups
+![]()
 ## Route 53
+![]()
 ## IAM (Identity and Access Management)
+![]()
 ## CloudWatch
+![]()
 ## CloudTrail
+![]()
 ## Kinesis
+![]()
 ## CloudFront
+![]()
 ## SQS (Simple Queue Service)
+![]()
 ## SNS (Simple Notification Service)
+![]()
 ## SWF
+![]()
 ## CloudFormation
+![]()
 ## OpsWorks
+![]()
