@@ -17,53 +17,29 @@
 
 [Hands on](url)
 
+## EC2
+## Lambda
 ## Elastic Load Balancer (ELB)
-![]()
 ## Auto Scaling
-![]()
 ## Elastic Block Store (EBS)
-![]()
 ## S3
-![]()
 ## Glacier
-![]()
 ## Storage Gateway
-![]()
-## EFS (Elastic File System)
-![]()
-## RDS
-![]()
+## EFS (Elastic File System)	
+## RDS (Relational Database Service)	
 ## Aurora
-![]()
 ## DynamoDB
-![]()
-## Elasticache
-![]()
+## ElastiCache
 ## VPC
-![]()
-## NACL
-![]()
-## Security Groups
-![]()
+## NACL (Network Access Control List)
 ## Route 53
-![]()
 ## IAM (Identity and Access Management)
-![]()
 ## CloudWatch
-![]()
 ## CloudTrail
-![]()
 ## Kinesis
-![]()
 ## CloudFront
-![]()
 ## SQS (Simple Queue Service)
-![]()
 ## SNS (Simple Notification Service)
-![]()
-## SWF
-![]()
+## SWF (Simple Workflow Service)
 ## CloudFormation
-![]()
 ## OpsWorks
-![]()
