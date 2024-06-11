@@ -48,7 +48,7 @@ Add the following content to the `index.html` file:
 
 Save the file and exit the text editor (for `nano`, press `Ctrl + O`, then press `Enter`, and then press `Ctrl + X` to exit).
 
-## Step 6: Configure Security Group**
+## Step 6: Configure Security Group
 
 Make sure that your EC2 instance's security group allows incoming traffic on port 80 (HTTP). You can do this in the AWS Management Console by modifying the security group associated with your EC2 instance.
 
