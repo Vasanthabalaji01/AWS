@@ -1,0 +1,61 @@
+site_name: AWS Project
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: amber
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+    - scheme: slate
+      primary: orange
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+  logo: img/Mr.Cloudexplorer_logo.png
+  favicon: img/Mr.Cloudexplorer_logo.png
+  features:
+    - navigation.instant
+    - header.autohide
+    - navigation.tabs
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - AWS Services:
+      - EC2: AWS_services/EC2/ec2.md
+      - Lambda: AWS_services/Lambda/lambda.md
+      - Elastic Load Balancer: AWS_services/Elastic_Load_Balancer/elb.md
+      - Auto Scaling: AWS_services/Auto_Scaling/auto_scaling.md
+      - Elastic Block Store: AWS_services/Elastic_Block_Store/ebs.md
+      - S3: AWS_services/S3/s3.md
+      - Glacier: AWS_services/Glacier/glacier.md
+      - Storage Gateway: AWS_services/Storage_Gateway/storage_gateway.md
+      - Elastic File System: AWS_services/Elastic_File_System/efs.md
+      - Relational Database Service: AWS_services/Relational_Database_Service/rds.md
+      - Aurora: AWS_services/Aurora/aurora.md
+      - DynamoDB: AWS_services/DynamoDB/dynamodb.md
+      - ElastiCache: AWS_services/ElastiCache/elasticache.md
+      - VPC: AWS_services/VPC/vpc.md
+      - Network Access Control List: AWS_services/Network_Access_Control_List/nacl.md
+      - Route 53: AWS_services/Route_53/route_53.md
+      - Identity and Access Management: AWS_services/Identity and_Access_Management/iam.md
+      - CloudWatch: AWS_services/CloudWatch/cloudwatch.md
+      - CloudTrail: AWS_services/CloudTrail/cloudtrail.md
+      - Kinesis: AWS_services/Kinesis/kinesis.md
+      - CloudFront: AWS_services/CloudFront/cloudfront.md
+      - Simple Queue Service: AWS_services/Simple_Queue_Service/sqs.md
+      - Simple Notification Service: AWS_services/Simple_Notification_Service/sns.md
+      - Simple Workflow Service: AWS_services/Simple_Workflow_Service/swf.md
+      - CloudFormation: AWS_services/CloudFormation/cloudformation.md
+      - OpsWorks: AWS_services/OpsWorks/opsworks.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/Vasanthabalaji01
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/in/vasanthabalaji
+    - icon: fontawesome/brands/instagram 
+      link: https://www.instagram.com/mrcloudexplorer

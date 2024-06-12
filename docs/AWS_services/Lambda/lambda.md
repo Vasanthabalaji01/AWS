@@ -1,0 +1,1 @@
+![architecture](<../../img/readme/Lambda Mini Project.png>)
