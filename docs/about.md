@@ -3,6 +3,7 @@
 - From beginners to developers, we've got you covered.
 - No more feeling lost in the cloud.
 - So you don't have to spend hours digging for info.
+
 Learn about key services like compute, storage, databases, and more.
 
 Become a cloud user without the headache and the bill shock, hopefully.
