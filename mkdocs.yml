@@ -1,5 +1,7 @@
 site_name: AWS
 
+repo_url: https://github.com/Vasanthabalaji01/AWS
+
 theme:
   name: material
   palette:
@@ -15,6 +17,8 @@ theme:
         name: Switch to light mode
   logo: img/Mr.Cloudexplorer_logo.png
   favicon: img/Mr.Cloudexplorer_logo.png
+  icon:
+    repo: fontawesome/brands/github  
   features:
     - navigation.instant
     - header.autohide
