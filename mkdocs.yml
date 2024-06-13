@@ -1,4 +1,4 @@
-site_name: AWS Project
+site_name: AWS
 
 theme:
   name: material
@@ -23,7 +23,8 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - AWS Services:
+  - Core Services:
+      - Intro: AWS_services/intro/intro.md
       - EC2: AWS_services/EC2/ec2.md
       - Lambda: AWS_services/Lambda/lambda.md
       - Elastic Load Balancer: AWS_services/Elastic_Load_Balancer/elb.md
@@ -50,6 +51,18 @@ nav:
       - Simple Workflow Service: AWS_services/Simple_Workflow_Service/swf.md
       - CloudFormation: AWS_services/CloudFormation/cloudformation.md
       - OpsWorks: AWS_services/OpsWorks/opsworks.md
+  - Architecture:
+      - Intro: Architecture/intro.md
+      - One-Tier: Architecture/One_Tier/one_tier.md
+      - Two-Tier: Architecture/Two_Tier/two_tier.md
+      - Three-Tier: Architecture/Three_Tier/three_tier.md
+      - N-Tier: Architecture/N_Tier/n_tier.md
+      - Serverless: Architecture/Serverless/serverless.md
+      - Microservices: Architecture/Microservices/microservices.md
+      - Event-Driven: Architecture/Event_Driven/event_driven.md
+      - Hybrid: Architecture/Hybrid/hybrid.md
+  - Security:
+      - Intro: Security/intro.md
 
 extra:
   social:
