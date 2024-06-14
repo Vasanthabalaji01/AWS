@@ -56,7 +56,7 @@ nav:
       - CloudFormation: AWS_services/CloudFormation/cloudformation.md
       - OpsWorks: AWS_services/OpsWorks/opsworks.md
   - Architecture:
-      - Intro: Architecture/intro.md
+      - Index: Architecture/intro.md
       - One-Tier: Architecture/One_Tier/one_tier.md
       - Two-Tier: Architecture/Two_Tier/two_tier.md
       - Three-Tier: Architecture/Three_Tier/three_tier.md
